@@ -2,7 +2,7 @@ name: nurbaanuarov
 on:
   push:
     branches: [ "main" ]  # Trigger on push to 'main' branch
-
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
